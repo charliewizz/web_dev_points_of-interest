@@ -22,5 +22,5 @@ const POI = {
         }
     }
 };
-''
+
 module.exports = POI
